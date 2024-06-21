@@ -64,13 +64,19 @@ npm install
 ### Usage
 
 1. Ensure you have your JavaScript files in the `files/base` directory.
-2. Run the tool:
+2. Build the project:
+
+```bash
+npm run build
+```
+
+3. Run the tool:
 
 ```bash
 npm start
 ```
 
-3. Follow the prompts to encrypt, decrypt, or execute files.
+4. Follow the prompts to encrypt, decrypt, or execute files.
 
 ## Command Line Interface
 
